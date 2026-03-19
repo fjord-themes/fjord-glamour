@@ -1,6 +1,6 @@
-# Fjord Theme for glamour
+# Fjord Theme for Glamour
 
-A dusk-blue base with soft leaf-green accents for glamour.
+A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for Glamour — the terminal markdown renderer used by tools like Glow and Charm.
 
 ## 🎨 Color Palette
 
@@ -40,19 +40,23 @@ git clone https://github.com/fjord-themes/fjord-glamour.git --depth 1
 ```
 
 
+2. Copy the theme file to your Glamour themes directory:
+
+```bash
+mkdir -p ~/.config/glamour/themes/
+cp fjord-glamour/themes/fjord.json ~/.config/glamour/themes/.
+```
+
+3. Add the theme to your Glamour config (`~/.zshrc / ~/.bashrc`):
+```bash
+export GLAMOUR_STYLE="$HOME/.config/glamour/themes/fjord.json"
+```
 
 
 
 
 
 
-
-## 🔧 Configuration
-
-The theme is designed to work transparently with your terminal colors while providing optimal contrast and readability in the glamour editor.
-## 📸 Preview
-
-![Fjord glamour Theme](https://raw.githubusercontent.com/fjord-theme/fjord/main/docs/images/colortest.png)
 
 
 ## 🔄 Updates
