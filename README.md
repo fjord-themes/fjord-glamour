@@ -33,28 +33,19 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 ### Manual Installation
 
 
-1. Clone this repository:
+1. Clone the theme to your config directory:
 
 ```bash
-git clone https://github.com/fjord-themes/fjord-glamour.git --depth 1
+mkdir -p ~/.config/glamour/
+git clone https://github.com/fjord-themes/fjord-glamour.git --depth 1 ~/.config/glamour/fjord-glamour
 ```
 
-
-2. Copy the theme file to your Glamour themes directory:
-
+2. Add to your config (`~/.zshrc / ~/.bashrc`):
 ```bash
-mkdir -p ~/.config/glamour/themes/
-cp fjord-glamour/themes/fjord.json ~/.config/glamour/themes/.
+export GLAMOUR_STYLE="$HOME/.config/glamour/fjord-glamour/themes/fjord.json"
 ```
 
-3. Add the theme to your Glamour config (`~/.zshrc / ~/.bashrc`):
-```bash
-export GLAMOUR_STYLE="$HOME/.config/glamour/themes/fjord.json"
-```
-
-
-
-
+3. Reload your shell (`source ~/.zshrc`) or open a new terminal.
 
 
 
