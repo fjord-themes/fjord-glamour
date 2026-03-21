@@ -21,7 +21,7 @@
   "h1": {
     "prefix": "██ ",
     "suffix": " ",
-    "color": "#C8B860",
+    "color": "#FFD285",
     "bold": true
   },
   "h2": {
@@ -39,7 +39,7 @@
   "h4": {
     "prefix": "░░░░░ ",
     "suffix": " ",
-    "color": "#A8A4F8",
+    "color": "#B9A0F8",
     "bold": true
   },
   "text": {},
@@ -71,11 +71,11 @@
     "underline": true
   },
   "link_text": {
-    "color": "#A8A4F8",
+    "color": "#B9A0F8",
     "bold": true
   },
   "image": {
-    "color": "#C8B860",
+    "color": "#FFD285",
     "underline": true
   },
   "image_text": {
@@ -103,7 +103,7 @@
         "color": "#6C7A86"
       },
       "comment_preproc": {
-        "color": "#C8B860"
+        "color": "#FFD285"
       },
       "keyword": {
         "color": "#5DA6EA"
@@ -142,7 +142,7 @@
       },
       "name_constant": {},
       "name_decorator": {
-        "color": "#C8CCF7"
+        "color": "#D4C6F7"
       },
       "name_exception": {},
       "name_function": {
