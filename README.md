@@ -2,6 +2,7 @@
 
 A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for Glamour — the terminal markdown renderer used by tools like Glow and Charm.
 
+
 ## 🎨 Color Palette
 
 ### Core Colors
@@ -46,7 +47,6 @@ export GLAMOUR_STYLE="$HOME/.config/glamour/fjord-glamour/themes/fjord.json"
 ```
 
 3. Reload your shell (`source ~/.zshrc`) or open a new terminal.
-
 
 
 
