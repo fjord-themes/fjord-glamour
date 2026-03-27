@@ -1,6 +1,6 @@
 # Fjord Theme for Glamour
 
-A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for Glamour — the terminal markdown renderer used by tools like Glow and Charm.
+A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation for Glamour — the terminal markdown renderer used by tools like Glow and Charm.
 
 
 ## 🎨 Color Palette
