@@ -40,7 +40,7 @@ A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/c
 
 ```bash
 mkdir -p ~/.config/glamour/
-git clone https://git.jshuntley.com/fjord-theme/fjord-glamour.git --depth 1 ~/.config/glamour/fjord-glamour
+git clone https://github.com/fjord-themes/fjord-glamour.git --depth 1 ~/.config/glamour/fjord-glamour
 ```
 
 2. Add to your config (`~/.zshrc / ~/.bashrc`):
