@@ -9,7 +9,7 @@
     "indent": 1,
     "indent_token": "│ ",
     "color": "#6C7A86",
-    "background_color": "#1B2532"
+    "background_color": "#1B2C32"
   },
   "paragraph": {},
   "list": {
@@ -80,11 +80,11 @@
     "prefix": " ",
     "suffix": " ",
     "color": "#9DD99A",
-    "background_color": "#222E3F"
+    "background_color": "#22373F"
   },
   "code_block": {
     "color": "#E8F0F3",
-    "background_color": "#1B2532",
+    "background_color": "#1B2C32",
     "margin": 2,
     "chroma": {
       "text": {
@@ -156,14 +156,14 @@
       },
       "generic_deleted": {
         "color": "#F37C7C",
-        "background_color": "#1B2532"
+        "background_color": "#1B2C32"
       },
       "generic_emph": {
         "italic": true
       },
       "generic_inserted": {
         "color": "#9DD99A",
-        "background_color": "#1B2532"
+        "background_color": "#1B2C32"
       },
       "generic_strong": {
         "bold": true
@@ -172,13 +172,13 @@
         "color": "#6C7A86"
       },
       "background": {
-        "background_color": "#1B2532"
+        "background_color": "#1B2C32"
       }
     }
   },
   "table": {
     "color": "#E8F0F3",
-    "background_color": "#1B2532"
+    "background_color": "#1B2C32"
   },
   "definition_list": {
     "color": "#E8F0F3"
